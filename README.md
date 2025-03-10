@@ -19,7 +19,7 @@
     </div>
     <div align= "center">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🧑‍💻 Contact me </h2> <br> 
-    <div align= "center"> <a href=gyuweon_i> <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white&link=gyuweon_i"> </a>
+    <div align= "center"> <a href=[gyuweon_i](https://www.instagram.com/gyuweon_i/)> <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white&link=gyuweon_i"> </a>
           </div>  <br> 
     <div align= "center">  </div> 
     </div>
