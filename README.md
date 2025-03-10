@@ -1,6 +1,9 @@
 ## 📝 소개  
 01년생 컴퓨터공학 전공 이규원입니다.
 
+## 📬 연락처  
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=Gmail&logoColor=white)](mailto:every_day_with_you@nate.com)  
+
 ## 💻 자격증
 컴활2급, 네트워크관리사2급, SQLD(예정), 정보처리산업기사(예정)
 
