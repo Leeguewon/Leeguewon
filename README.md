@@ -1,3 +1,5 @@
+<img src="복사한_이미지_URL" alt="GitHub Banner" width="100%">
+
 ## 📝 소개  
 01년생 컴퓨터공학 전공 이규원입니다.
 
@@ -20,3 +22,4 @@
 ![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white)  
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=black)  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white)  
+
