@@ -4,8 +4,7 @@
             <h3>🏅 Stats</h3>
             <img src="https://github-readme-stats.vercel.app/api?username=Leeguewon&bg_color=180,000000,&title_color=000000&text_color=000000" />
         </td>
-
-        <td align="center">
+        <td rowspan="2" align="center">
             <h3>💻 자격증</h3>
             <ul>
                 <li>컴퓨터 활용능력 2급</li>
