@@ -35,12 +35,3 @@
         </td>
     </tr>
 </table>
-
-            <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=white">
-            <br/><br/>
-            <a href="https://www.instagram.com/gyuweon_i">
-                <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white">
-            </a>
-        </td>
-    </tr>
-</table>
