@@ -28,7 +28,7 @@
          /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leeguewon&layout=compact&bg_color=180,000000,&title_color=000000&text_color=000000"
            /> </div> 
     </div>
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=hello123)](https://solved.ac/hello123/)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=guewon12)](https://solved.ac/guewon12/)
 
     
     
