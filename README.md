@@ -22,7 +22,7 @@
         <img src="https://img.shields.io/badge/네트워크관리사-56B830?style=for-the-badge"> <img src="https://img.shields.io/badge/정보처리산업기사-0052D4?style=for-the-badge"> <img src="https://img.shields.io/badge/사무자동화산업기사-FFC000?style=for-the-badge"> <img src="https://img.shields.io/badge/AWS%20Certified%20Cloud%20Practitioner-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white">
     </div>
     <br>
-        <img src="https://www.credly.com/badges/44062632-11dd-49fd-9b4f-189804983c40/public_url" alt="AWS Certified Cloud Practitioner" width="150">
+        <img src="[https://www.credly.com/badges/44062632-11dd-49fd-9b4f-189804983c40/public_url](https://images.credly.com/size/340x340/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png)" alt="AWS Certified Cloud Practitioner" width="150">
 </div>
 
 <br>
