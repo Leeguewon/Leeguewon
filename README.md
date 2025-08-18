@@ -14,13 +14,6 @@
     </div>
 </div>
 
-<br>
-### 🏆 Certifications
-<div align="center">
-  <div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="44062632-11dd-49fd-9b4f-189804983c40" data-share-badge-host="https://www.credly.com"></div>
-  <script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
-</div>
-
 <div align="center">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 📜 자격증 </h2> <br>
     <div style="margin: 0 auto; text-align: center;" align="center">
